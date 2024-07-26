@@ -1,3 +1,25 @@
+# Insight transmission
+
+... needs:
+
+- left shaft
+- center shaft (behind engine)
+- right shaft (from center shaft to hub)
+
+The center and right may be able to be combined on the G1 Insight, since the right hand diff output is CLOSER to the wheel hub in the ZE1 than usual, and certainly closer than on the G3 Insight.
+  
+  e.g. [RockAuto](https://www.rockauto.com/en/moreinfo.php?pk=14714093&cc=3446276&pt=2288&jsn=842)
+  - 27 splines inboard female
+  - 28 splines outboard male
+
+## Left shaft
+  [RockAuto](https://www.rockauto.com/en/moreinfo.php?pk=14714097&cc=3446276&pt=2288&jsn=444)
+  - 29 splines inboard male
+  - 28 splines outboard male
+
+## Right shaft
+
+Probably use a ?(inner teeth) x ?(barrel diameter) x 29 inner CV joint, like https://www.ebay.com/itm/196044120682
 # Other cars
 
 ## Clarity

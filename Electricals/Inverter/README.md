@@ -2,6 +2,8 @@
 
 ![](clarity_inverter_pcu_power_module.jpg)
 
+![](clarity_inverter_circuit.png)
+
 ## Summary
 The Clarity PCU is simple. The control board is an Infineon (Cypress) ARM MCU, controlled components (so far identified) are
 

@@ -7,7 +7,7 @@
 ## Summary
 The Clarity PCU is simple. The control board is an Infineon (Cypress) ARM MCU, controlled components (so far identified) are
 
-- QTY16 ROHM BM60051 gate drivers
+- QTY16 ROHM BM60051 gate drivers (see `./BM60051FV-C.PDF`)
 - a pre-charge relay
 - some temperature sensors
 - a battery bus current sensor

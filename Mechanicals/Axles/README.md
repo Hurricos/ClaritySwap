@@ -44,6 +44,9 @@ Probably use a ?(inner teeth) x ?(barrel diameter) x 29 inner CV joint, like htt
 ## OEM Insight
 
 ### Teardown threads
+- Stock passenger's G1 Insight axle disassembly by Robot Cantina
+
+  https://youtu.be/G7iTT-RFfo0?t=295: GSP replacements can't be disasssembled; OEM ones can be.
 
 - matt2001's complete teardown: https://www.insightcentral.net/threads/cleaning-the-crud-from-my-cv-joints-what-to-use.128585/?post_id=1488896#post-1488896
  
